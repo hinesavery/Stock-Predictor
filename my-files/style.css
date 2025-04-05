@@ -1,0 +1,19 @@
+body {
+    background-color :darkorchid; /* Change background color */
+    font-family: Arial, sans-serif;
+  }
+  div {
+    background-image: url('IMG_1618.jpeg');  /* Set background image */
+    background-size: cover;
+    background-position: center;
+  }
+  h1 {
+    color: darkblue;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    color: darkred;
+  }
+  
